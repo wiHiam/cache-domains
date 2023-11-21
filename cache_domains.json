@@ -3,7 +3,7 @@
 		{
 			"name": "caritas",
 			"description": "CIN - Cache Server"
-			"domain_files": [caritas.txt]
+			"domain_files": ["caritas.txt"]
 		}
 	]
 }
