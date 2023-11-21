@@ -1,0 +1,9 @@
+{
+	"cache_domains": [
+		{
+			"name": "caritas",
+			"description": "CIN - Cache Server"
+			"domain_files": [caritas.txt]
+		}
+	]
+}
