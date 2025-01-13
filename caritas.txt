@@ -1,1 +1,7 @@
 gorilla.caritas-im-norden.de
+cdn.microsoft.com
+azureedge.net
+teamviewer.com
+*.teamviewer.com
+adobe.com
+*adobe.com
